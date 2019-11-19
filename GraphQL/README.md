@@ -3,7 +3,7 @@
 
 
 # Prerequisites
-![Topics to understand](https://miro.medium.com/max/3120/1*qDlKyThqaWUyWDwP7jl88A.png)
+
 
 
 1. Queries  (Q of CQRS) : READ

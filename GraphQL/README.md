@@ -1,6 +1,10 @@
 
 # GraphQL 
 
+# Table of Contents
+1. [Prerequisites](# Prerequisites)
+2. []()
+3. []()
 # Prerequisites
 ![Topics to understand](https://miro.medium.com/max/3120/1*qDlKyThqaWUyWDwP7jl88A.png)
 
@@ -8,7 +12,7 @@
 1. Queries  (Q of CQRS) : READ
 2. Mutation (C of CQRS) : CREATED, UPDATED or DELETED
 3. Subscription         : Part of GraphQL server. Example would be Apollo server.
-![Subscription](https://www.apollographql.com/docs/apollo-server/ee7fbac9c0ca5b1dd6aef886bb695e63/index-diagram.svg)
+
 
 
 ## Implementation Project Links

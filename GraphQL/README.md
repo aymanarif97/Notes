@@ -1,10 +1,7 @@
 
 # GraphQL 
 
-# Table of Contents
-1. [Prerequisites](/# Prerequisites)
-2. []()
-3. []()
+
 # Prerequisites
 ![Topics to understand](https://miro.medium.com/max/3120/1*qDlKyThqaWUyWDwP7jl88A.png)
 

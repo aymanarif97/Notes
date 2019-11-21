@@ -13,7 +13,7 @@
 ## JWT vs Session
 
 
-# PCI-DSSS
+# PCI-DSS
 
 # Attacks
 

@@ -24,3 +24,4 @@ Examples: Neo4j
 
 
 # IMDG vs IMDB
+In-memory data grid vs In-memory data base

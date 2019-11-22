@@ -1,5 +1,9 @@
 
+# Database
 
+## Books
+1. NOSQL Distilled
+2. Designing Data-intensive applications
 # SQL
 
 
@@ -15,7 +19,10 @@ Examples: HBase, Cassandra
 
 ## 3. KV Based
 Examples: Riak, Redis, DynamoDB(AWS)
-
+| Oracle| Riak|
+|-------|-----|
+|DB instance|Riak Cluster|
+|||
 
 
 

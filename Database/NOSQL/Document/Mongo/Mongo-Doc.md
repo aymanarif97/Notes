@@ -46,10 +46,16 @@ Ops Manager is a comprehensive application that helps you manage MongoDB safely 
 
 ## MongoDB Connectors to External Systems
 ### MongoDB Kafka Connector
+Persist data from ***Kafka Topics*** as a data sink into MongoDB as well as changes from MongoDB into ***Kafka Topics*** as a data source 
 ### MongoDB Enterprise K8 Connector
+Run MongoDB Enterprise on K8 and configure Cloud or Ops Manager for backup and monitoring
 ### MongoDB Spark Connector
+Use MongoDB with Spark.
 ### MongoDB Charts
+Visualizations for MongoDB data
 ### MongoDB Compass
+View and analyze MongoDB data using GUI
 ### MongoDB Atlas Open Service Connector
+Deploy Atlas Clusters and manage DB users rom within K8
 ### MongoDB BI Connector
-
+Use BI tools and SQL to query data stored in MongoDB.

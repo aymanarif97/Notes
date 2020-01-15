@@ -1,4 +1,4 @@
-- [[MongoDB Documentation](https://docs.mongodb.com/)](#-mongodb-documentation--https---docsmongodbcom--)
+- [MongoDB Documentation](#mongodb-documentation)
 - [Getting Started](#getting-started)
 - [Guides](#guides)
 - [MongoDB Products](#mongodb-products)
@@ -20,8 +20,8 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-# [MongoDB Documentation](https://docs.mongodb.com/)
-
+# MongoDB Documentation
+[Documentation Link](https://docs.mongodb.com/)
 
 # Getting Started
 

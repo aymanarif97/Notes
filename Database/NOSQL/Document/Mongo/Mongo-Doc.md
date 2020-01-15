@@ -19,13 +19,11 @@
 ### MongoDB Ops Manager
 
 ## MongoDB Connectors to External Systems
-### MongoDB KafkaConnector
+### MongoDB Kafka Connector
 ### MongoDB Enterprise K8 Connector
 ### MongoDB Spark Connector
-### MongoDB Atlas Open Service Connector
-### MongoDB BI Connector
 ### MongoDB Charts
 ### MongoDB Compass
-### MongoDB KafkaConnector
-### MongoDB Enterprise K8 Connector
-### MongoDB SPark Connector
+### MongoDB Atlas Open Service Connector
+### MongoDB BI Connector
+

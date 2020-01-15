@@ -1,5 +1,6 @@
 # Topics 
 
+
 # Encryption and Signatures
 
 # Certificate Chain
@@ -22,3 +23,8 @@
 ## CSRF
 
 ## XSS 
+
+
+# Identity Management in the Enterprise
+
+# OAuth1&2 and OIDC

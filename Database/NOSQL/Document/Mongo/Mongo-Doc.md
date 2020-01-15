@@ -31,14 +31,18 @@
 # MongoDB Products
 
 ## MongoDB Server
-## MongoDB Stich 
+## MongoDB Stich -- Serverless
+MongoDB Stitch is a serverless platform that provides an HTTP API to MongoDB, integration with other services, and a declarative rules infrastructure which spans database and service actions.
 ## MongoDB Drivers
 
 
 ## MongoDB Cloud
 ### MongoDB Atlas
+Atlas provides **MongoDB as a service** from the people who build MongoDB.
 ### MongoDB Cloud Manager
+Cloud Manager is a hosted platform for managing MongoDB on the infrastructure of your choice.
 ### MongoDB Ops Manager
+Ops Manager is a comprehensive application that helps you manage MongoDB safely and reliably in your own data center.
 
 ## MongoDB Connectors to External Systems
 ### MongoDB Kafka Connector

@@ -21,7 +21,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # MongoDB Documentation
-[Documentation Link](https://docs.mongodb.com/)
+[Documentation Link](https://docs.mongodb.com/): Rest of the topics in this README are covered in the link.
 
 # Getting Started
 

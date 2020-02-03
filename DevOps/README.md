@@ -1,6 +1,11 @@
 # DevOps
 
 
+# AIOps
+(Basically a passable logging solution.)
+
+## Dynatrace
+## Splunk
 
 # CI
 

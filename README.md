@@ -18,13 +18,9 @@ Links and notes to my learnings
    </tr>
    <tr>
     <td align="center"><a href="#Reactive"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Reactive</b></a></td>
-    
     <td align="center"><a href="#Security"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Security</b></a></td>
     <td align="center"><a href="#Spring"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Spring</b></a></td>
     <td align="center"><a href="#Node"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Node</b></a></td>
-    
-    
-    
   </tr>
 </table>
 </center>

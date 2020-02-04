@@ -8,14 +8,14 @@
    
   </tr>
      <tr>
-    <td align="center"><a href="/Node/Angualar/README.md"><img src="https://content.techgig.com/thumb/msid-70553803,width-860,resizemode-4/Introduction-to-AngularJS-and-why-you-should-learn-it.jpg?48655" width="110px;" height="75px;" alt="you"/><br /><b>Node</b></a></td>
-      <td align="center"><a href="/Node/React/README.md"><img src="https://reactjs.org/logo-og.png" width="110px;" height="75px;" alt="you"/><br /><b>Deno</b></a></td>
-         <td align="center"><a href="/Node/Vue/README.md"><img src="https://cdn-images-1.medium.com/max/1200/1*yeAO-nwsAqnzr7k-zoDkoQ.png" width="110px;" height="75px;" alt="you"/><br /><b>Deno</b></a></td>
+    <td align="center"><a href="/Node/Angular/README.md"><img src="https://content.techgig.com/thumb/msid-70553803,width-860,resizemode-4/Introduction-to-AngularJS-and-why-you-should-learn-it.jpg?48655" width="110px;" height="75px;" alt="you"/><br /><b>Angular2+</b></a></td>
+      <td align="center"><a href="/Node/React/README.md"><img src="https://reactjs.org/logo-og.png" width="110px;" height="75px;" alt="you"/><br /><b>React</b></a></td>
+         <td align="center"><a href="/Node/Vue/README.md"><img src="https://cdn-images-1.medium.com/max/1200/1*yeAO-nwsAqnzr7k-zoDkoQ.png" width="110px;" height="75px;" alt="you"/><br /><b>Vue</b></a></td>
    
   </tr>
     <tr>
-    <td align="center"><a href="/Node/Svelte/README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="110px;" height="75px;" alt="you"/><br /><b>Node</b></a></td>
-   <td align="center"><a href="/Node/AngularJS/README.md"><img src="https://sdtimes.com/wp-content/uploads/2018/01/angularjs-logo-300x162.jpgg" width="110px;" height="75px;" alt="you"/><br /><b>Node</b></a></td>
+    <td align="center"><a href="/Node/Svelte/README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="110px;" height="75px;" alt="you"/><br /><b>Svelte</b></a></td>
+   <td align="center"><a href="/Node/AngularJS/README.md"><img src="https://sdtimes.com/wp-content/uploads/2018/01/angularjs-logo-300x162.jpgg" width="110px;" height="75px;" alt="you"/><br /><b>AngualrJS</b></a></td>
    
   </tr>
 </table>

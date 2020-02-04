@@ -15,7 +15,7 @@
   </tr>
     <tr>
     <td align="center"><a href="/Node/Svelte/README.md"><img src="https://i.ytimg.com/vi/efAMY1JvrcQ/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Svelte</b></a></td>
-   <td align="center"><a href="/Node/AngularJS/README.md"><img src="https://sdtimes.com/wp-content/uploads/2018/01/angularjs-logo-300x162.jpgg" width="110px;" height="75px;" alt="you"/><br /><b>AngualrJS</b></a></td>
+   <td align="center"><a href="/Node/AngularJS/README.md"><img src="https://content.techgig.com/thumb/msid-70553803,width-860,resizemode-4/Introduction-to-AngularJS-and-why-you-should-learn-it.jpg?48655" width="110px;" height="75px;" alt="you"/><br /><b>AngualrJS</b></a></td>
    
   </tr>
 </table>

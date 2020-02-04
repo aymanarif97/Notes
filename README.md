@@ -8,7 +8,7 @@ Links and notes to my learnings
 <center>
     <tr>
     <td align="center"><a href="/APIs/README.md"><img src="https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png" width="110px;" height="75px;" alt="you"/><br /><b>APIs</b></a></td>
-    <td align="center"><a href="#DSL"><img src="https://miro.medium.com/max/2560/1*CEYFj5R57UFyCXts2nsBqA.png" width="110px;" height="75px;" alt="Exercises"/><br /><b>DSL for Build Systems</b></a></td>
+    <td align="center"><a href="/DSL/README.md"><img src="https://miro.medium.com/max/2560/1*CEYFj5R57UFyCXts2nsBqA.png" width="110px;" height="75px;" alt="Exercises"/><br /><b>DSL for Build Systems</b></a></td>
     <td align="center"><a href="/Database/README.md"><img src="https://www.computerhope.com/jargon/d/database.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Database</b></a></td>
     <td align="center"><a href="/DevOps/README.md"><img src="https://bit.ly/3b8YQfg" width="110px;" height="75px;" alt="you"/><br /><b>DevOps</b></a></td>
     <td align="center"><a href="/Golang/README.md"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Golang</b></a></td>

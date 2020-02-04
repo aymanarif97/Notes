@@ -15,8 +15,8 @@ Links and notes to my learnings
     <td align="center"><a href="#Microservices"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Microservices</b></a></td>
      <td align="center"><a href="#OSS"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>OSS</b></a></td>   
         
-    </tr>
-    <tr>
+   </tr>
+   <tr>
     <td align="center"><a href="#Reactive"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Reactive</b></a></td>
     
     <td align="center"><a href="#Security"><img src="https://i.ytimg.com/vi/YS4e4q9oBaU/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Security</b></a></td>

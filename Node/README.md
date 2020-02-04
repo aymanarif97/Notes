@@ -14,7 +14,7 @@
    
   </tr>
     <tr>
-    <td align="center"><a href="/Node/Svelte/README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="110px;" height="75px;" alt="you"/><br /><b>Svelte</b></a></td>
+    <td align="center"><a href="/Node/Svelte/README.md"><img src="https://i.ytimg.com/vi/efAMY1JvrcQ/maxresdefault.jpg" width="110px;" height="75px;" alt="you"/><br /><b>Svelte</b></a></td>
    <td align="center"><a href="/Node/AngularJS/README.md"><img src="https://sdtimes.com/wp-content/uploads/2018/01/angularjs-logo-300x162.jpgg" width="110px;" height="75px;" alt="you"/><br /><b>AngualrJS</b></a></td>
    
   </tr>

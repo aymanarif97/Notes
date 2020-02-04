@@ -6,8 +6,8 @@ Links and notes to my learnings
 
 <table>
 <center>
-    <td align="center"><a href="#questions-you-ask"><img src="utils/images/you.png" width="110px;" height="75px;" alt="you"/><br /><b>Questions you ask</b></a></td>
-    <td align="center"><a href="#exercises"><img src="utils/images/exercises.png" width="110px;" height="75px;" alt="Exercises"/><br /><b>Exercises</b></a></td>
+    <td align="center"><a href="#APIs"><img src="https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png" width="110px;" height="75px;" alt="you"/><br /><b>Questions you ask</b></a></td>
+    <td align="center"><a href="#"><img src="utils/images/exercises.png" width="110px;" height="75px;" alt="Exercises"/><br /><b>Exercises</b></a></td>
   </tr>
 </table>
 </center>

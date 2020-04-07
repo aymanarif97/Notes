@@ -2,7 +2,8 @@ Sudhanshu Yadav's Webcast on internals of Front-end is advanced and very informa
 
 # Table of contents
 
-1. [SSR in react](# SSR in React)
+1. <a href="#SSR in React">SSR in React</a>
+
 # SSR in React
 https://www.youtube.com/watch?v=kImeJY8B7ao
 # [Internals of async. Javascript](https://www.youtube.com/watch?v=W3MPqmwIIjk)

@@ -66,14 +66,14 @@ Tooling for a11y
 ## Resources
 - [Gist of different do's and don't and snippets](https://gist.github.com/vikas-parashar/74b690c775ab67a7ba2f324db7d53c15)
 - digitala11y.com
-- [Writing HTML with accessibility in mind](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412
-- [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
-- [Writing JavaScript with accessibility in mind - Manuel Matuzovic](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
-- [JavaScript is not an enemy of accessibility! – Marco's Accessibility Blog](https://marcozehe.wordpress.com/2016/11/23/javascript-not-enemy-accessibility/
+- [Writing HTML with accessibility in mind](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412)
+- [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
+- [Writing JavaScript with accessibility in mind - Manuel Matuzovic](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
+- [JavaScript is not an enemy of accessibility! – Marco's Accessibility Blog](https://marcozehe.wordpress.com/2016/11/23/javascript-not-enemy-accessibility/)
 - [The Three Developers and the Insightful User Tester](https://www.24a11y.com/2017/three-developers-and-the-insightful-user-tester/
-- [All about Web accessibility](https://link.medium.com/2HKNbecmf5
+- [All about Web accessibility](https://link.medium.com/2HKNbecmf5)
 https://link.medium.com/3QwcW2imf5
-- [Deciding semantic html tag](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
+- [Deciding semantic html tag](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 
 - [Udacity- Free course](https://classroom.udacity.com/courses/ud891)
 
@@ -83,12 +83,12 @@ https://link.medium.com/3QwcW2imf5
 
 - Others
 
-https://a11y-style-guide.com/
-https://a11yproject.com
-https://developer.yoast.com/the-a11y-monthly-making-modals-accessible/
-https://css-tricks.com/a-css-approach-to-trap-focus-inside-of-an-element/
-https://github.com/The-Internals/Deep-dive-into-A11y/blob/master/tooling.md
-https://patrickhlauke.github.io/aria/demos/modal/index-aria-inert.html
+    - https://a11y-style-guide.com/
+    - https://a11yproject.com
+    - https://developer.yoast.com/the-a11y-monthly-making-modals-accessible/
+    - https://css-tricks.com/a-css-approach-to-trap-focus-inside-of-an-element/
+    - https://github.com/The-Internals/Deep-dive-into-A11y/blob/master/tooling.md
+    - https://patrickhlauke.github.io/aria/demos/modal/index-aria-inert.html
 
 ## Checklist
 

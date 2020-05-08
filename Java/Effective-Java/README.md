@@ -2,7 +2,7 @@
 # Table of Contents
 
 - [Item 1](#item-1)
-- [Item 19](#item-19)
+- [Item 19](#item-19-:one:)
 - [Third Example](#third-example)
 - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
@@ -47,4 +47,4 @@
 
 ## Item 18 :one:
 
-## Item 19
+## Item 19 :one:

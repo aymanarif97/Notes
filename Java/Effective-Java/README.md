@@ -93,29 +93,25 @@
 - [Item 89](##item-89)
 - [Item 90](##item-90)
 
+# Creating a destroying objects
 ## Item 1
 ## Item 2
-
 ## Item 3
-
 ## Item 4
-
 ## Item 5
-
 ## Item 6
-
 ## Item 7
-
 ## Item 8
-
 ## Item 9 
 
-## Item 10
+# Methods Common to All Objects
 ## Item 10
 ## Item 11
 ## Item 12
 ## Item 13
 ## Item 14
+
+# Classes and Interfaces
 ## Item 15
 ## Item 16
 ## Item 17
@@ -127,6 +123,8 @@
 ## Item 23
 ## Item 24
 ## Item 25
+
+# Generics
 ## Item 26
 ## Item 27
 ## Item 28
@@ -135,6 +133,8 @@
 ## Item 31
 ## Item 32
 ## Item 33
+
+# Enums and Annotations
 ## Item 34
 ## Item 35
 ## Item 36
@@ -143,6 +143,8 @@
 ## Item 39
 ## Item 40
 ## Item 41
+
+# Lambdas and Streams
 ## Item 42
 ## Item 43
 ## Item 44
@@ -150,6 +152,8 @@
 ## Item 46
 ## Item 47
 ## Item 48
+
+# Methods
 ## Item 49
 ## Item 50
 ## Item 51
@@ -158,6 +162,8 @@
 ## Item 54
 ## Item 55
 ## Item 56
+
+# General Programming
 ## Item 57
 ## Item 58
 ## Item 59
@@ -170,6 +176,8 @@
 ## Item 66
 ## Item 67
 ## Item 68
+
+# Exception 
 ## Item 69
 ## Item 70
 ## Item 71
@@ -179,6 +187,11 @@
 ## Item 75
 ## Item 76
 ## Item 77
+
+# Concurrency
+
+## Background Information
+
 ## Item 78
 ## Item 79
 ## Item 80
@@ -186,6 +199,8 @@
 ## Item 82
 ## Item 83
 ## Item 84
+
+# Serialization
 ## Item 85
 ## Item 86
 ## Item 87

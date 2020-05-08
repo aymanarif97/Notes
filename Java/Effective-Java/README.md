@@ -121,7 +121,6 @@
 ## Item 24
 ## Item 25
 
-# Generics
 ## Item 26
 ## Item 27
 ## Item 28

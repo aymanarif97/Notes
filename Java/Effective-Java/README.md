@@ -5,4 +5,4 @@
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-## Item 1 :one: :two:
+## :one: Item 1 

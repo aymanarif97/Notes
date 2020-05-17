@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Creating and Destroying Objects](@creating-and=destroying-objects)
+1. [Creating and Destroying Objects](#creating-and-destroying-objects)
   - [Item 1](#item-1-consider-static-factories-instead-of-constructors)
   - [Item 2](#item-2-use-builder-when-faced-with-many-constructors)
   - [Item 3](#item-3)
@@ -28,6 +28,7 @@
   - [Item 23](#item-23)
   - [Item 24](#item-24)
   - [Item 25](#item-25)
+2. [Generics](#generics)  
   - [Item 26](#item-26)
   - [Item 27](#item-27)
   - [Item 28](#item-28)
@@ -80,6 +81,7 @@
   - [Item 75](#item-75)
   - [Item 76](#item-76)
   - [Item 77](#item-77)
+10. [Concurrency](#concurrency)    
   - [Item 78](#item-78)
   - [Item 79](#item-79)
   - [Item 80](#item-80)
@@ -87,6 +89,9 @@
   - [Item 82](#item-82)
   - [Item 83](#item-83)
   - [Item 84](#item-84)
+
+
+11. [Serialization](#serialization)  
   - [Item 85](#item-85)
   - [Item 86](#item-86)
   - [Item 87](#item-87)
@@ -139,6 +144,7 @@
 ## Item 24
 ## Item 25
 
+# Generics
 ## Item 26
 ## Item 27
 ## Item 28
@@ -147,6 +153,7 @@
 ## Item 31
 ## Item 32
 ## Item 33
+
 
 ## Item 34
 ## Item 35
@@ -187,6 +194,7 @@
 ## Item 67
 ## Item 68
 
+
 ## Item 69
 ## Item 70
 ## Item 71
@@ -197,7 +205,7 @@
 ## Item 76
 ## Item 77
 
-
+# Concurrency
 ## Item 78
 ## Item 79
 ## Item 80
@@ -206,6 +214,7 @@
 ## Item 83
 ## Item 84
 
+# Serialization
 ## Item 85
 ## Item 86
 ## Item 87

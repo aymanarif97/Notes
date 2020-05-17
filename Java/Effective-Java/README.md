@@ -3,7 +3,7 @@
 # Table of Contents
 
 - [Item 1](#item-1-consider-static-factories-instead-of-constructors)
-- [Item 2](#item-2)
+- [Item 2](#item-2-use-builder-when-faced-with-many-constructors)
 - [Item 3](#item-3)
 - [Item 4](#item-4)
 - [Item 5](#item-5)
@@ -105,7 +105,13 @@
 # Creating and Destroying Objects
 
 ## Item 1 Consider Static Factories Instead of Constructors
-## Item 2
+
+**Rule of Thumb**: 
+- If class has 3 or less paramenters, use *static factory*.
+- If not, use builder (See Item 2)
+
+Else use builder
+## Item 2 Use Builder when faced with many constructors
 ## Item 3
 ## Item 4
 ## Item 5

@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [Item 1](#item-1)
+- [Item 1: Consider Static Factories instead of Constructors](#item-1:-consider-static-factories-instead-of-constructors)
 - [Item 2](#item-2)
 - [Item 3](#item-3)
 - [Item 4](#item-4)
@@ -101,7 +101,10 @@
 - [Item 97](#item-97)
 - [Item 98](#item-98)
 - [Item 99](#item-99)
-## Item 1
+
+# Creating and Destroying Objects
+
+## Item 1: Consider Static Factories instead of Constructors
 ## Item 2
 ## Item 3
 ## Item 4

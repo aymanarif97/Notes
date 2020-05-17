@@ -108,9 +108,8 @@
 
 **Rule of Thumb**: 
 - If class has 3 or less paramenters, use *static factory*.
-- If not, use builder (See Item 2)
+- If not, use [builder](#item-2-use-builder-when-faced-with-many-constructors) *(See Item 2)*
 
-Else use builder
 ## Item 2 Use Builder when faced with many constructors
 ## Item 3
 ## Item 4

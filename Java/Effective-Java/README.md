@@ -72,16 +72,19 @@
   - [Item 66](#item-66)
   - [Item 67](#item-67)
   - [Item 68](#item-68)
-  - [Item 69](#item-69)
-  - [Item 70](#item-70)
-  - [Item 71](#item-71)
-  - [Item 72](#item-72)
-  - [Item 73](#item-73)
-  - [Item 74](#item-74)
-  - [Item 75](#item-75)
-  - [Item 76](#item-76)
-  - [Item 77](#item-77)
-10. [Concurrency](#concurrency)    
+
+10. [Exceptions](#exceptions)
+  - [Item 69](#item-69-use-exceptions-only-for-exceptional-conditions)
+  - [Item 70](#item-70-use-checked-exceptions-for-recoverable-conditions-&-runtime-exceptions-for-programming-errors)
+  - [Item 71](#item-71-avoid-unnecessary-use-of-checked-exceptions)
+  - [Item 72](#item-72-favour-use-of-standard-exceptions)
+  - [Item 73](#item-73-throw-exception-appropriate-to-abstraction)
+  - [Item 74](#item-74-document-all-exceptions-thrown-by-each-method)
+  - [Item 75](#item-75-include-failure-capture-information-in-detail-messages)
+  - [Item 76](#item-76-strive-for-failure-atomicity)
+  - [Item 77](#item-77-don't-ignore-exceptions)
+
+11. [Concurrency](#concurrency)    
   - [Item 78](#item-78)
   - [Item 79](#item-79)
   - [Item 80](#item-80)
@@ -91,7 +94,7 @@
   - [Item 84](#item-84)
 
 
-11. [Serialization](#serialization)  
+12. [Serialization](#serialization)  
   - [Item 85](#item-85)
   - [Item 86](#item-86)
   - [Item 87](#item-87)
@@ -195,15 +198,17 @@
 ## Item 68
 
 
-## Item 69
-## Item 70
-## Item 71
-## Item 72
-## Item 73
-## Item 74
-## Item 75
-## Item 76
-## Item 77
+# Exceptions
+## Item 69 Use Exceptions Only For Exceptional Conditions
+## Item 70 Use Checked Exceptions For Recoverable Conditions & Runtime Exceptions For Programming Errors
+## Item 70 Avoid Unnecessary Use Of Checked Exceptions
+## Item 71 Favour Use Of Standard Exceptions
+## Item 72 Throw Exception Appropriate To Abstraction
+## Item 73 Document All Exceptions Thrown By Each Method
+## Item 74 Include Failure Capture Information In Detail Messages
+## Item 75 Strive For Failure Atomicity
+## Item 76 Don't Ignore Exceptions
+
 
 # Concurrency
 ## Item 78

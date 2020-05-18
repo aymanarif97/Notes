@@ -201,14 +201,33 @@
 # Exceptions
 ## Item 69 Use Exceptions Only For Exceptional Conditions
 ## Item 70 Use Checked Exceptions For Recoverable Conditions & Runtime Exceptions For Programming Errors
-## Item 70 Avoid Unnecessary Use Of Checked Exceptions
-## Item 71 Favour Use Of Standard Exceptions
-## Item 72 Throw Exception Appropriate To Abstraction
-## Item 73 Document All Exceptions Thrown By Each Method
-## Item 74 Include Failure Capture Information In Detail Messages
-## Item 75 Strive For Failure Atomicity
-## Item 76 Don't Ignore Exceptions
+## Item 71 Avoid Unnecessary Use Of Checked Exceptions
+## Item 72 Favour Use Of Standard Exceptions
+## Item 73 Throw Exception Appropriate To Abstraction
+## Item 74 Document All Exceptions Thrown By Each Method
+## Item 75 Include Failure Capture Information In Detail Messages
 
+
+## Item 76 Strive For Failure Atomicity
+
+## Item 77 Don't Ignore Exceptions
+When you use an dependency and the method throws Exception, don't just surround the exception with a `catch{}` block.
+
+```java
+try {
+...
+} catch (DependencyException e) { // Don't do this
+}
+```
+
+### Ignoring exceptions
+There are very few cases when you can ignore the exception(very few). In such cases, you should at least log for investigation reasons.
+If you ignore, you need to log and comment as to why you are not throwing the exception.
+
+### Why propogate exceptions?
+
+1. Fail program swiftly at the lowest/earliest level.
+2. Propogate exceptions outward so that the information is preserved, which makes debugging a lot more informative.
 
 # Concurrency
 ## Item 78

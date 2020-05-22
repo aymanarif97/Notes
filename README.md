@@ -1,4 +1,4 @@
-# Software-Notes
+# [Software-Notes](https://github.com/AymanArif/Software-Notes/wiki)
 Links and notes to my learnings
 
 

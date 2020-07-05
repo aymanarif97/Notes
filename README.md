@@ -24,3 +24,14 @@ Links and notes to my learnings
   </tr>
 </table>
 </center>
+
+
+
+# Notion Links
+
+
+As I love Notion, I am adding links to my Notion references and notes.
+
+
+1. [📚 Reading List](https://www.notion.so/Reading-List-b63408de181143208fca667c09efa0ce)
+2. [📚 Web development Reading List](https://www.notion.so/Reading-List-d13161a3792247f4bf12e3c1805b6171)

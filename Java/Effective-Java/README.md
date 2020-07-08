@@ -1,5 +1,7 @@
 
 
+# Use `markdown-toc` to generate ToC
+
 # Table of Contents
 
 1. [Creating and Destroying Objects](#creating-and-destroying-objects)
